@@ -27,14 +27,7 @@
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 ---
-
-## 📌 Projetos em Destaque
-- [📦 Projeto QA com Cypress](#)  
-- [🌐 Website em HTML/CSS/JS](#)  
-- [⚙️ Automação de Testes com Node.js](#)  
-
----
-
+ 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natocastro)  
 📧 **natocastro@outlook.com**  
