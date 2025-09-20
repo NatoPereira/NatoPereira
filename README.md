@@ -10,7 +10,6 @@
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NatoPereira&show_icons=true&theme=tokyonight)  
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=NatoPereira&layout=compact&theme=tokyonight)  
 
 ---
@@ -27,7 +26,19 @@
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
 ---
- 
+
+## 📌 Projetos em Destaque
+
+### Aula HTML EBAC
+[Repositório](https://github.com/NatoPereira/aula-html-ebac)  
+![GIF Aula HTML](https://github.com/NatoPereira/aula-html-ebac/blob/main/assets/aula-html.gif?raw=true)  
+
+### Aula Git
+[Repositório](https://github.com/NatoPereira/aula-git)  
+![GIF Aula Git](https://github.com/NatoPereira/aula-git/blob/main/assets/aula-git.gif?raw=true)  
+
+---
+
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natocastro)  
 📧 **natocastro@outlook.com**  
@@ -35,19 +46,3 @@
 ---
 
 ⭐ Se gostou do meu perfil, não esqueça de deixar um **Follow** e acompanhar minha evolução!
-## Hi there 👋
-
-<!--
-**NatoPereira/NatoPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
