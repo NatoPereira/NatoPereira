@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Natalino!
+# Olá, eu sou o Natalino (Nato Castro) 👋
 
-🎯 Em transição de carreira para **Analista de Qualidade de Software Júnior**  
+🎯 Em transição de carreira para **Analista de Qualidade de Software**  
 💻 Conhecimentos em **JavaScript, HTML e CSS**  
 🧪 Ferramentas: **Cypress, Node.js, NPM, Jest, Mocha/Chai, Git & GitHub**  
 🚀 Interesse crescente em **DevOps e automação de testes**  
