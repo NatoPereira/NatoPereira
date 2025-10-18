@@ -1,6 +1,6 @@
 <!-- Banner discreto -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&text=Natalino%20(Nato%20Castro)%20|%20QA%20em%20Formação&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Banner Natalino Castro" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=80&section=header&text=Natalino%20Castro%20|%20QA%20em%20Formação&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="Banner Natalino Castro" />
 </p>
 
 <h3 align="center">💻 Em transição de carreira para Analista de Qualidade de Software (QA)</h3>
