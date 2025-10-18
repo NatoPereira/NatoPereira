@@ -75,4 +75,4 @@
 <p align="center">✨ <em>“Garantindo qualidade em cada entrega.”</em> ✨</p>
 
 
-⭐ Se gostou do meu perfil, não esqueça de deixar um **Follow** e acompanhar minha evolução!
+<p align="center">✨ Se gostou do meu perfil, não esqueça de deixar um **Follow** e acompanhar minha evolução!</em> ✨</p>
